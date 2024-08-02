@@ -11,7 +11,7 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 
 public class Main extends JFrame implements ActionListener {
-
+// its main
     private JButton button1;
     private JButton button2;
     private JButton button3;
